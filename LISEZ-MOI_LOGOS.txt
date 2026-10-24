@@ -1,0 +1,10 @@
+LOGOS PERSONNALISES — PHILIPS MINIMAL V3
+
+Dans app/src/main/res/drawable, ajoutez vos quatre fichiers PNG avec ces noms exacts :
+- logo_1.png : YouTube
+- logo_2.png : Netflix
+- logo_3.png : Prime Video
+- logo_4.png : Disney Plus
+
+Le code charge automatiquement ces logos. Si un fichier manque, il utilise l'icône de l'application installée.
+Après avoir ajouté les images, envoyez les fichiers sur GitHub puis relancez GitHub Actions pour créer un nouvel APK.
